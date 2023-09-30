@@ -1,2 +1,15 @@
-# School-Income
-Real world data simulation with adjusted numbers from a schools income from tuition and sales.
+# School Income
+This is a real world data simulation with adjusted numbers from a schools income from tuition and sales. The school has two major streams of income one being students paying tuition and the other is sales from the business side of front desk sales, merchandise, ETC.
+
+## Tuition 
+First, starting with the tuition the main income flow for a school. This graph helps to understand what months they are not only lacking in tuition but what months they are lacking in bringing in new students. There is a correlation between students to the cash flow of tuition ie. more students more money paid for tuition. The first noticeable thing from this graph is that April is lacking severely compared to other months. And that January, July, and August are the top 3 months. Now why could this be? A simple answer this is a trade school so most of the students are either coming right out of high school or are looking for a career change. Starting with January a lot of people might be making New years resolutions to start something new and others might be joining from graduating high school early lastly, some realize a traditional 4-year isn't for them and they make a switch 6 months into their first year. Now for a simple answer to July and August, a lot of people think school starts in August so this school can always expect an increase in revenue in late July and early August.
+![tuition](https://i.gyazo.com/1eb615390ba53dc2dc4b387e0fa06c20.png)
+
+## Sales 
+Now for the sales portoion of the business. Without the inside knowlege of what might have caused the major drop off after June, you'd want to ask the company to look at what has changed since then. Clearly there isnt such a clear corrolation as the first graph with the tuitions in this one the only outstanding thing to be noticed is that there was a major shift. Now with knowing the inside knowledge of what that major shift was. Its the replacement of the front desk posotion in the early summer. now the summer time more people are active and outside and going on shopping sprees. A lot of business can thrive in the summer months so that could be a reason that the numbers still carried on even with a new person learning and filling the position that makes all the sales up front. With the summer comming to the end however, this is exposing the weakness of having a new position being filled with  inexperianced person whom is still learning. 
+![sales](https://i.gyazo.com/885dd95c4399e181e3e5a1fcce82286e.png)
+
+
+## Totals 
+Finally, The totals this graph shows the bussiness two main income streams from tuition to sales added up. there is a good trend of keeping the numbers close and well with in the 300,000 mark. Now, a good goal to set for the company is to tyr and push themselves to find improvement to make them surpase the 350,000 mark like they have done in January and have also came very close to in a cople other months. Its definitly not an imposible task but a good standard to set them selves at to keep the bussiness thriving. 
+![Totals](https://i.gyazo.com/5dcaa1d1d76087636841a1000c5c115a.png)
